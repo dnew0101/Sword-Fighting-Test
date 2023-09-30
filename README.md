@@ -3,7 +3,8 @@ This project is simply me tinkering around with Roblox Studio/Lua to demo the la
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 SIDE NOTES:
-
-Given the current state of the software development job market, I figured I'd try some more unconverntional approaches to learning that emphasized creativity over structure. While it is a fairly desperate time, I do feel as though this is a great opportunity to exemplify my skills in other departments outside of web development, and a fantastic opportunity to garner experience with Lua, a very lightweight and powerful programming language.
 -
+Given the current state of the software development job market, I figured I'd try some more unconverntional approaches to learning that emphasized creativity over structure. While it is a fairly desperate time, I do feel as though this is a great opportunity to exemplify my skills in other departments outside of web development, and a fantastic opportunity to garner experience with Lua, a very lightweight and powerful programming language.
+
+
 Hopefully this game (which will be released on Roblox in due time), will be an enjoyable and rewarding experience! I'm excited to see where this opportunity leads me! :)
